@@ -328,7 +328,7 @@ Documentação feita com base nas boas práticas e testes realizados localmente 
 ---
 
 ## 🎥 Vídeo de Apresentação
-**Gravado com Loom** — [[Vídeo de apresentação do desafio](https://www.loom.com/share/1ffb2ec4828b4146a6ccfe3aa70b7fa9?sid=ebcb7402-12c3-4dc3-bf27-88c1453f9cac)]
+**Gravado com Loom** — [Vídeo de apresentação do desafio](https://www.loom.com/share/1ffb2ec4828b4146a6ccfe3aa70b7fa9?sid=ebcb7402-12c3-4dc3-bf27-88c1453f9cac)
 
 ---
 
